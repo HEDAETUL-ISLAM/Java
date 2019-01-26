@@ -1,0 +1,8 @@
+Fool Game
+
+The Game looks like this. There is one label asking the question whether you are a fool or not and two
+Buttons Yes and No.If you click on the Yes Button, the following thing happens. Clicking on the Again Button, the game
+restarts. Clicking on the Exit Button the game Exits.
+If you try to click on the No Button, the Button jumps to another location randomly. If only you are not
+a fool, you will be able to click on the No Button and the following thing will happen. Clicking on the
+Again Button, the game restarts. Clicking on the Exit Button the game Exits.
